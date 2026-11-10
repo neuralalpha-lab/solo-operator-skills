@@ -46,4 +46,8 @@ MIT License。著作者：NeuralAlpha
 
 ## もっと詳しい運用の型（有料版）
 
-複数の事業を Claude Code で回す人向けに、役割分担・自律の段階・試しの台帳・日次の報告の型などを、テンプレートとスクリプトつきでまとめた有料版を用意しています。無料版のスキルだけで十分な人は、読まなくて大丈夫です。（販売ページは準備中です。公開したらここに載せます）
+複数の事業を Claude Code で回す人向けに、役割分担・自律の段階・試しの台帳・日次の報告の型などを、テンプレートとスクリプトつきでまとめた有料版を用意しています。無料版のスキルだけで十分な人は、読まなくて大丈夫です。
+- 日本語版：[Gumroad](https://neuralalpha.gumroad.com/l/ai-staff-kit-ja)／[Brain](https://brain-market.com/u/neuralalpha/a/bwkTO0cjMgoTZsNWa0JXY)
+- English edition: [Gumroad](https://neuralalpha.gumroad.com/l/ai-staff-kit)
+
+（自社の商品の案内です）
