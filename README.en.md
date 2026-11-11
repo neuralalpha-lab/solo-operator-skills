@@ -49,6 +49,6 @@ MIT License. Author: NeuralAlpha
 ## Paid edition
 
 For people running several businesses with Claude Code, there is a paid kit covering role split, autonomy levels, an experiment ledger, and daily reporting, with templates and scripts. If the free skills are enough for you, you can ignore this.
-- English edition: [Gumroad](https://neuralalpha.gumroad.com/l/ai-staff-kit)
+- English edition: search "NeuralAlpha AI staff kit" on Gumroad
 
 (This is our own product.)
