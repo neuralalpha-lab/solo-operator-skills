@@ -1,6 +1,6 @@
 ---
 name: publish-check-en
-description: Final check before publishing or sending an article, video script, social post, product listing, ebook, course, or email. Checks unsupported numbers, income or results promises, ad and affiliate disclosure under local rules (such as the FTC in the US), AI-generated content labels, platform rules, and privacy or secrets. Use when the user says "check this before I publish", "is this OK to post", or right before anything is published or sent.
+description: Final check before publishing or sending, for unsupported numbers, income promises, ad and affiliate disclosure (e.g. FTC), AI labels, platform rules, privacy. Use for "check this before I publish".
 ---
 
 # Pre-publish check (solo operators, global)

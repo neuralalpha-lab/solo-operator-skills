@@ -1,6 +1,6 @@
 ---
 name: small-experiment-en
-description: Design a small business or side-project experiment that can be measured within two weeks, then judge the result on the judging date. Fixes the hypothesis, metric, baseline, judging date, keep rule and stop rule before starting, and formats the record. Use when the user says things like "I want to try a new tactic", "test a different post format or title", or "judge my experiment results".
+description: Designs a small experiment measurable in 2 weeks (hypothesis, metric, baseline, judging date, keep and stop rules) and judges it. Use for "try a new tactic", "test a title" or "judge my experiment".
 ---
 
 # Two-week small experiment
